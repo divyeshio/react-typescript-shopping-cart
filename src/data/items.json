@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Bat",
+    "price": 10.99,
+    "imgUrl": "/imgs/bat.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Grapes",
+    "price": 1199,
+    "imgUrl": "/imgs/grapes.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Car",
+    "price": 1.05,
+    "imgUrl": "/imgs/car.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Gold",
+    "price": 14000,
+    "imgUrl": "/imgs/gold.jpg"
+  }
+]
